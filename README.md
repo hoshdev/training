@@ -26,3 +26,12 @@ Jason Miller (Rendimiento React)
 Midudev reaccionando a tu codigo
 
 Youtube: Software development diaries
+
+# PROJECTS
+Hundir la flota
+
+Juego de competición de servidores.
+
+Seguridad (Ricardo)
+
+Tema de cache entrevista New Relic. Guardar datos que están en localstorage en servidor. LocalStorage en diferentes dispositivos.
